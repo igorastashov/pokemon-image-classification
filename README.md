@@ -85,7 +85,7 @@ Example script to train and evaluate model.
 
 ```
 # Train ConvNet
-python main.py
+python train.py
 ```
 
 **Hydra - hyperparameter management tool.**
