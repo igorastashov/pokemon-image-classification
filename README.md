@@ -37,7 +37,7 @@ Put your Pokémon image into the appropriate folder `photo` to test.
 
 ```
 # Model weights need to be downloaded
-python inference.py
+python infer.py
 ```
 
 ## (3) Dataset
